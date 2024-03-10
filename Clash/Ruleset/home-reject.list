@@ -1,1 +1,3 @@
-
+# 家中使用的拒规则
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN,upgrade-hdtv.cp21.ott.cibntv.net
