@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "quickconnect"
+      ],
+      "domain_suffix": [
+        "synology.com",
+        "synology.me",
+        "dyndns.org"
+      ]
+    }
+  ]
+}
