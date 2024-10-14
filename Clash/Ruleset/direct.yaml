@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,synology.me
+  - DOMAIN-SUFFIX,dyndns.org
+  - DOMAIN-SUFFIX,centuryenglish.com
+  - DOMAIN-KEYWORD,quickconnect
