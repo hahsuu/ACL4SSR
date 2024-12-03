@@ -3,13 +3,15 @@
   "rules": [
     {
       "domain_keyword": [
-        "quickconnect"
+        "quickconnect",
+        "meiying"
       ],
       "domain_suffix": [
         "synology.com",
         "synology.me",
         "dyndns.org",
-        "centuryenglish.com"
+        "icloud.com",
+        "apple.com"
       ]
     }
   ]
